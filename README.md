@@ -1,1 +1,1 @@
-# atlas-proxy
+# atlas
